@@ -27,6 +27,7 @@
 
   <p align="center">
     An AI expenseTracker app to track your expense without your manual managing.
+    <a href="https://github.com/sanat-26/expense-tracker-frontend">Frontend of the Project</a>
     </p>
 </div>
 
