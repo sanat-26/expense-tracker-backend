@@ -20,26 +20,14 @@
 -->
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/saspal02/expense-tracker-app">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
-  </a>
+  
 
 <h3 align="center">EaseExpense</h3>
 
   <p align="center">
     An AI expenseTracker app to track your expense without your manual managing.
-    <br />
-    <a href="https://github.com/saspal02/expense-tracker-app"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/user-attachments/assets/6f8f0e0e-6300-4014-87ab-8b6a29061d65">View Demo</a>
-    &middot;
-    <a href="https://github.com/saspal02/expense-tracker-app/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/saspal02/expense-tracker-app/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+    </p>
 </div>
 
 
@@ -148,10 +136,6 @@ Navigate to expenseTrackerApp and up your containers to test it
    docker compose up -d
    ```
 
-To test in the frontend, refer to this [Link](https://github.com/saspal02/expense-tracker-rn)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
@@ -163,9 +147,6 @@ To test in the frontend, refer to this [Link](https://github.com/saspal02/expens
 - [ ] Add category level expenses
 - [ ] Deploy the project in AWS
 
-See the [open issues](https://github.com/saspal02/expense-tracker-app/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
